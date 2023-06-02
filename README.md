@@ -1,7 +1,3 @@
-# PAGARME
-
-Este reposotório foi criado com o intuito de passar no teste seletivo da Stone
-
 ## Configurações Iniciais
 
 Primeiramente deve baixar o repositorio utilizando os comandos git
